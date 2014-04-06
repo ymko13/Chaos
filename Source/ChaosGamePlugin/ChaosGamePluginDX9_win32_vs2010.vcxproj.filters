@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="ChaosGamePluginModule.h" />
+    <ClInclude Include="ChaosGamePluginPCH.h" />
+    <ClInclude Include="GameManager.h" />
+    <ClInclude Include="mCell.h">
+      <Filter>Map</Filter>
+    </ClInclude>
+    <ClInclude Include="mMap.h">
+      <Filter>Map</Filter>
+    </ClInclude>
+    <ClInclude Include="mPath.h">
+      <Filter>Map</Filter>
+    </ClInclude>
+    <ClInclude Include="mRoom.h">
+      <Filter>Map</Filter>
+    </ClInclude>
+    <ClInclude Include="mStatObject.h">
+      <Filter>Map</Filter>
+    </ClInclude>
+    <ClInclude Include="mDamageableEntity.h">
+      <Filter>Character</Filter>
+    </ClInclude>
+    <ClInclude Include="mCharStats.h">
+      <Filter>Character</Filter>
+    </ClInclude>
+    <ClInclude Include="mEffect.h">
+      <Filter>Character</Filter>
+    </ClInclude>
+    <ClInclude Include="mProjectile.h">
+      <Filter>Character</Filter>
+    </ClInclude>
+    <ClInclude Include="mCharacter.h">
+      <Filter>Character</Filter>
+    </ClInclude>
+    <ClInclude Include="mPlayerCharacter.h">
+      <Filter>Character</Filter>
+    </ClInclude>
+    <ClInclude Include="mSerializer.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="mBasicEntity.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="TemplateAction.h">
+      <Filter>Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="mBaseComponent.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="myComponent.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="mAiPath.h">
+      <Filter>Character</Filter>
+    </ClInclude>
+    <ClInclude Include="mController.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="mAiController.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="mAiCharacter.h">
+      <Filter>Character</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ChaosGamePluginPCH.cpp" />
+    <ClCompile Include="PluginMain.cpp" />
+    <ClCompile Include="GameManager.cpp" />
+    <ClCompile Include="mCell.cpp">
+      <Filter>Map</Filter>
+    </ClCompile>
+    <ClCompile Include="mMap.cpp">
+      <Filter>Map</Filter>
+    </ClCompile>
+    <ClCompile Include="mPath.cpp">
+      <Filter>Map</Filter>
+    </ClCompile>
+    <ClCompile Include="mRoom.cpp">
+      <Filter>Map</Filter>
+    </ClCompile>
+    <ClCompile Include="mStatObject.cpp">
+      <Filter>Map</Filter>
+    </ClCompile>
+    <ClCompile Include="mDamageableEntity.cpp">
+      <Filter>Character</Filter>
+    </ClCompile>
+    <ClCompile Include="mCharStats.cpp">
+      <Filter>Character</Filter>
+    </ClCompile>
+    <ClCompile Include="mEffect.cpp">
+      <Filter>Character</Filter>
+    </ClCompile>
+    <ClCompile Include="mProjectile.cpp">
+      <Filter>Character</Filter>
+    </ClCompile>
+    <ClCompile Include="mCharacter.cpp">
+      <Filter>Character</Filter>
+    </ClCompile>
+    <ClCompile Include="mPlayerCharacter.cpp">
+      <Filter>Character</Filter>
+    </ClCompile>
+    <ClCompile Include="mBasicEntity.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="mSerializer.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="TemplateAction.cpp">
+      <Filter>Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="mBaseComponent.cpp">
+      <Filter>Components</Filter>
+    </ClCompile>
+    <ClCompile Include="myComponent.cpp">
+      <Filter>Components</Filter>
+    </ClCompile>
+    <ClCompile Include="mAiPath.cpp">
+      <Filter>Character</Filter>
+    </ClCompile>
+    <ClCompile Include="mController.cpp">
+      <Filter>Components</Filter>
+    </ClCompile>
+    <ClCompile Include="mAiController.cpp">
+      <Filter>Components</Filter>
+    </ClCompile>
+    <ClCompile Include="mAiCharacter.cpp">
+      <Filter>Character</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Map">
+      <UniqueIdentifier>{f2b94294-48fa-4fae-92c8-05cab40c4688}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Character">
+      <UniqueIdentifier>{c7db94a6-f4e2-43f4-9998-c4eef4cf3a45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Other">
+      <UniqueIdentifier>{0fd757a2-710b-4bfb-89ab-1da3459e595d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components">
+      <UniqueIdentifier>{fcdd7cf1-9704-4f45-a08a-c56c5901e09b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Actions">
+      <UniqueIdentifier>{58972c07-070e-425c-b71a-fd7e53ff55ba}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

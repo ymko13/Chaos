@@ -1,0 +1,50 @@
+*.layer.backup
+*.layer.lock
+*.user
+*.dll
+Data/Vision/Base/AssetMgmt_data/thumbnails/
+Data/Vision/Base/AssetMgmt_data/transformed/
+*.visinfo
+*.vcc
+*.vsc
+*.vPlugin
+*.vPluginD
+Relight_StaticLightingInfo.bat
+StaticLightingInfo.temp
+StaticLightingInfo.XML
+Lib/
+Obj/
+Bin/
+Data/
+Source/ipch/
+Source/ExampleProject_Win32_VS2010_DX9.sdf
+Source/ExampleApplication/AndroidTemp
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.exe
+*.userprefs
+*.pidb
+*.suo
+*.pdb
+*.user
+*.unityproj
+*.booproj
+*.sln
+*.csproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+~*.*

@@ -1,0 +1,3022 @@
+{
+    "Configuration": {
+        "Name": "Assets",
+        "FormatVersion": 2,
+        "LastEditTime": 1393177001710076000
+    },
+    "Assets": {
+        "Meshes/Cells/Cell00.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Cells/Cell00.vmesh_data/materials.xml",
+                    "Meshes/Cells/Textures/Grass_Bump.png",
+                    "Meshes/Cells/Textures/GrassT.png",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2479435174,
+                "TimeStamp": 1395448254057966400,
+                "LastEditTime": 1395605983376560000
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Cell01.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Cells/Cell01.vmesh_data/materials.xml",
+                    "Meshes/Cells/Textures/Grass_Bump.png",
+                    "Meshes/Cells/Textures/GrassT1.png",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2557759861,
+                "TimeStamp": 1395448553283081100,
+                "LastEditTime": 1395605983576571400
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Cell02.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Cells/Cell02.vmesh_data/materials.xml",
+                    "Meshes/Cells/Textures/Grass_Bump.png",
+                    "Meshes/Cells/Textures/GrassT2.png",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2030976487,
+                "TimeStamp": 1395448567696905500,
+                "LastEditTime": 1395605986002710200
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Cell03.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Cells/Cell03.vmesh_data/materials.xml",
+                    "Meshes/Cells/Textures/Grass_Bump.png",
+                    "Meshes/Cells/Textures/GrassT3.png",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 640149097,
+                "TimeStamp": 1395448585515924700,
+                "LastEditTime": 1395605986157719000
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Cell10.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Cells/Cell10.vmesh_data/materials.xml",
+                    "Meshes/Cells/Textures/Grass_Bump.png",
+                    "Meshes/Cells/Textures/GrassT10.png",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3833469657,
+                "TimeStamp": 1395448606585129800,
+                "LastEditTime": 1396190402987573000
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Cell11.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Cells/Cell11.vmesh_data/materials.xml",
+                    "Meshes/Cells/Textures/Grass_Bump.png",
+                    "Meshes/Cells/Textures/GrassT11.png",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3143090519,
+                "TimeStamp": 1395448620586930600,
+                "LastEditTime": 1396190403202585300
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Cell110.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Cells/Cell110.vmesh_data/materials.xml",
+                    "Meshes/Cells/Textures/Grass_Bump.png",
+                    "Meshes/Cells/Textures/GrassT110.png",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 375756778,
+                "TimeStamp": 1395448880482795800,
+                "LastEditTime": 1396190403367594700
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Cell111.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Cells/Cell111.vmesh_data/materials.xml",
+                    "Meshes/Cells/Textures/Grass_Bump.png",
+                    "Meshes/Cells/Textures/GrassT111.png",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1229737060,
+                "TimeStamp": 1395448889912335200,
+                "LastEditTime": 1396190403530604000
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Cell112.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Cells/Cell112.vmesh_data/materials.xml",
+                    "Meshes/Cells/Textures/Grass_Bump.png",
+                    "Meshes/Cells/Textures/GrassT112.png",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2822119670,
+                "TimeStamp": 1395448901978025300,
+                "LastEditTime": 1396190403751616700
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Cell12.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Cells/Cell12.vmesh_data/materials.xml",
+                    "Meshes/Cells/Textures/Grass_Bump.png",
+                    "Meshes/Cells/Textures/GrassT12.png",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1512943045,
+                "TimeStamp": 1395448772878641200,
+                "LastEditTime": 1396190403910625800
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Cell13.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Cells/Cell13.vmesh_data/materials.xml",
+                    "Meshes/Cells/Textures/Grass_Bump.png",
+                    "Meshes/Cells/Textures/GrassT13.png",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 84178507,
+                "TimeStamp": 1395448792013735700,
+                "LastEditTime": 1396190404077635300
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Cell14.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Cells/Cell14.vmesh_data/materials.xml",
+                    "Meshes/Cells/Textures/Grass_Bump.png",
+                    "Meshes/Cells/Textures/GrassT14.png",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1135112864,
+                "TimeStamp": 1395448807928646000,
+                "LastEditTime": 1396190404241644700
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Cell15.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Cells/Cell15.vmesh_data/materials.xml",
+                    "Meshes/Cells/Textures/Grass_Bump.png",
+                    "Meshes/Cells/Textures/GrassT15.png",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 478259502,
+                "TimeStamp": 1395448817487192700,
+                "LastEditTime": 1396190404395653500
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Cell16.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Cells/Cell16.vmesh_data/materials.xml",
+                    "Meshes/Cells/Textures/Grass_Bump.png",
+                    "Meshes/Cells/Textures/GrassT16.png",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 4261135804,
+                "TimeStamp": 1395448827997793900,
+                "LastEditTime": 1396190404549662300
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Cell17.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Cells/Cell17.vmesh_data/materials.xml",
+                    "Meshes/Cells/Textures/Grass_Bump.png",
+                    "Meshes/Cells/Textures/GrassT17.png",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2731679282,
+                "TimeStamp": 1395448839000423200,
+                "LastEditTime": 1396190404702671100
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Cell18.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Cells/Cell18.vmesh_data/materials.xml",
+                    "Meshes/Cells/Textures/Grass_Bump.png",
+                    "Meshes/Cells/Textures/GrassT18.png",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1889782890,
+                "TimeStamp": 1395448849596029200,
+                "LastEditTime": 1396190404860680100
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Cell19.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Cells/Cell19.vmesh_data/materials.xml",
+                    "Meshes/Cells/Textures/Grass_Bump.png",
+                    "Meshes/Cells/Textures/GrassT19.png",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 797579236,
+                "TimeStamp": 1395448865754953400,
+                "LastEditTime": 1396190405033690000
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Textures/Grass_Bump.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 515279099,
+                "TimeStamp": 1392954256729618400,
+                "LastEditTime": 1395527362714722700
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 384,
+                "Height": 384,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Textures/GrassT.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2786944115,
+                "TimeStamp": 1395605858702429000,
+                "LastEditTime": 1395605986261725000
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Textures/GrassT1.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 340017495,
+                "TimeStamp": 1395605903704003000,
+                "LastEditTime": 1395605983514567900
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Textures/GrassT10.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 936381351,
+                "TimeStamp": 1396122325382756700,
+                "LastEditTime": 1396190405227701100
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Textures/GrassT11.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1735222468,
+                "TimeStamp": 1396122235065590900,
+                "LastEditTime": 1396190403138581600
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Textures/GrassT110.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3412763118,
+                "TimeStamp": 1396122528571378400,
+                "LastEditTime": 1396190403309591400
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Textures/GrassT111.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 570473017,
+                "TimeStamp": 1396122543384225700,
+                "LastEditTime": 1396190403473600800
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Textures/GrassT112.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3222017959,
+                "TimeStamp": 1396122512316448700,
+                "LastEditTime": 1396190403690613200
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Textures/GrassT12.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1613727740,
+                "TimeStamp": 1396122360841784900,
+                "LastEditTime": 1396190403851622400
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Textures/GrassT13.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1196615463,
+                "TimeStamp": 1396122414324843900,
+                "LastEditTime": 1396190404016631800
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Textures/GrassT14.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3882371170,
+                "TimeStamp": 1396122302284435600,
+                "LastEditTime": 1396190404184641500
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Textures/GrassT15.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2773002910,
+                "TimeStamp": 1396122256208800200,
+                "LastEditTime": 1396190404338650300
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Textures/GrassT16.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 4039552267,
+                "TimeStamp": 1396122430110746800,
+                "LastEditTime": 1396190404491659000
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Textures/GrassT17.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3092534033,
+                "TimeStamp": 1396122387818327800,
+                "LastEditTime": 1396190404646667900
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Textures/GrassT18.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1607086150,
+                "TimeStamp": 1396122205010871800,
+                "LastEditTime": 1396190404803676900
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Textures/GrassT19.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 684609512,
+                "TimeStamp": 1396122469076975600,
+                "LastEditTime": 1396190404971686500
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Textures/GrassT2.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3215226794,
+                "TimeStamp": 1395605922066053200,
+                "LastEditTime": 1395605985938706500
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Cells/Textures/GrassT3.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3418398574,
+                "TimeStamp": 1395605947377500900,
+                "LastEditTime": 1395605986099715700
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Columnar_Object.vcolmesh": {
+            "AssetType": "CollisionMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3626580952,
+                "TimeStamp": 1394587589520333500,
+                "LastEditTime": 1394587766639464200
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Columnar_Object.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Columnar_Object.vmesh_data/materials.xml",
+                    "Meshes/Textures/AttemptAtStone.png",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2085476531,
+                "TimeStamp": 1394587589520333500,
+                "LastEditTime": 1396190405099693800
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Friendly/Grass.vcolmesh": {
+            "AssetType": "CollisionMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3092964639,
+                "TimeStamp": 1392954373723310100,
+                "LastEditTime": 1392954374871375700
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Friendly/Grass.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Friendly/Grass.vmesh_data/materials.xml",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib",
+                    "Textures/Grass.png",
+                    "Textures/Grass_Bump.png"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2701096642,
+                "TimeStamp": 1392954373722310000,
+                "LastEditTime": 1392954374841374000
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Stones/Grass.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Stones/Grass.vmesh_data/materials.xml",
+                    "Meshes/Stones/Textures/Simple_Grass_3D.png",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2776665452,
+                "TimeStamp": 1396283699311817500,
+                "LastEditTime": 1396289147429432000
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Stones/Stone00.vcolmesh": {
+            "AssetType": "CollisionMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 977853609,
+                "TimeStamp": 1396280116715904700,
+                "LastEditTime": 1396289071458086700
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Stones/Stone00.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Stones/Stone00.vmesh_data/materials.xml",
+                    "Meshes/Stones/Textures/AttemptAtStone.png",
+                    "plainwhite.dds",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3242752187,
+                "TimeStamp": 1396280116715904700,
+                "LastEditTime": 1396720560813866200
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Stones/Textures/AttemptAtStone.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2888514404,
+                "TimeStamp": 1394586742666896300,
+                "LastEditTime": 1396289071526090600
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Stones/Textures/Simple_Grass_3D.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2027801712,
+                "TimeStamp": 1396283428934352800,
+                "LastEditTime": 1396289071533091000
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 128,
+                "Height": 128,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Textures/AttemptAtStone.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1277424292,
+                "TimeStamp": 1396125431866437400,
+                "LastEditTime": 1396190405074692400
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Trees/Textures/Pine_BOT.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2988733628,
+                "TimeStamp": 1396218406550285200,
+                "LastEditTime": 1396219278905181000
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Trees/Textures/Pine_TOP.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1777629555,
+                "TimeStamp": 1396209926854274300,
+                "LastEditTime": 1396219278973184900
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 256,
+                "Height": 256,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Trees/Textures/Pine_TOP2.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3761264910,
+                "TimeStamp": 1396228335180170300,
+                "LastEditTime": 1396289071414084200
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 256,
+                "Height": 256,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Trees/Tree00.vcolmesh": {
+            "AssetType": "CollisionMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3932957491,
+                "TimeStamp": 1396219543236299900,
+                "LastEditTime": 1396220083206184400
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Trees/Tree00.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Trees/Textures/Pine_BOT.png",
+                    "Meshes/Trees/Textures/Pine_TOP.png",
+                    "Meshes/Trees/Tree00.vmesh_data/materials.xml",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 135320617,
+                "TimeStamp": 1396219543236299900,
+                "LastEditTime": 1396220083207184400
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Trees/Tree01.vcolmesh": {
+            "AssetType": "CollisionMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3314589568,
+                "TimeStamp": 1396228373488361400,
+                "LastEditTime": 1396289071381082300
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/Trees/Tree01.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/Trees/Textures/Pine_BOT.png",
+                    "Meshes/Trees/Textures/Pine_TOP2.png",
+                    "Meshes/Trees/Tree01.vmesh_data/materials.xml",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3792745218,
+                "TimeStamp": 1396228373488361400,
+                "LastEditTime": 1396289071382082300
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Models/Character.anim": {
+            "AssetType": "Animation",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2752652293,
+                "TimeStamp": 1394386935773595700,
+                "LastEditTime": 1394587906545466300
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Models/Character.model": {
+            "AssetType": "Model",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Models/Character.model_data/materials.xml",
+                    "Models/Textures/Char_Eyes_UVW.png",
+                    "Models/Textures/Char_UVW.png",
+                    "plainwhite.dds",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1008775621,
+                "TimeStamp": 1394386935773595700,
+                "LastEditTime": 1396720560883870200
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Models/Character.vcolmesh": {
+            "AssetType": "CollisionMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 560203186,
+                "TimeStamp": 1394386935773595700,
+                "LastEditTime": 1394587906611470100
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Models/Textures/Char_Eyes_UVW.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2268783458,
+                "TimeStamp": 1394386911628214600,
+                "LastEditTime": 1394587907658530000
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 128,
+                "Height": 128,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Models/Textures/Char_UVW.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2770401945,
+                "TimeStamp": 1394385351373973200,
+                "LastEditTime": 1394587907708532900
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/BlastWave.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1088177234,
+                "TimeStamp": 1387325262000000000,
+                "LastEditTime": 1396473690443688700
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/Effect_Cone.model": {
+            "AssetType": "Model",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Particles/Textures/Light.dds",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1099973093,
+                "TimeStamp": 1387325264000000000,
+                "LastEditTime": 1396473492398361100
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/Electric_1.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3783753037,
+                "TimeStamp": 1387325260000000000,
+                "LastEditTime": 1396473296276143600
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/Flare_1.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3947040657,
+                "TimeStamp": 1387325262000000000,
+                "LastEditTime": 1396473690466690000
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 128,
+                "Height": 128,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/FlareGroup.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 4083271668,
+                "TimeStamp": 1387325264000000000,
+                "LastEditTime": 1396473492466365000
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 256,
+                "Height": 256,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/Fog_Group.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 4062373857,
+                "TimeStamp": 1387325262000000000,
+                "LastEditTime": 1396473690497691700
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/GrayLookupTable.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 4076469953,
+                "TimeStamp": 1387325262000000000,
+                "LastEditTime": 1396473690517692900
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 256,
+                "Height": 4,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/HaloRing_06.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2339191129,
+                "TimeStamp": 1387325264000000000,
+                "LastEditTime": 1396473492489366300
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 256,
+                "Height": 256,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/Light.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 4176738239,
+                "TimeStamp": 1387325264000000000,
+                "LastEditTime": 1396473492517367900
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/Plasma_1.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3975816636,
+                "TimeStamp": 1387325260000000000,
+                "LastEditTime": 1396473297075189300
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 256,
+                "Height": 256,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/Smoke.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2546377660,
+                "TimeStamp": 1387325262000000000,
+                "LastEditTime": 1396473690541694300
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Normalmap_00_00.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 890863160,
+                "TimeStamp": 1393175452145446000,
+                "LastEditTime": 1393177008431460500
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 132,
+                "Height": 132,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Normalmap_00_01.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 890863160,
+                "TimeStamp": 1393175452338457100,
+                "LastEditTime": 1393177008438460900
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 132,
+                "Height": 132,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Normalmap_00_02.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 890863160,
+                "TimeStamp": 1393175452528467900,
+                "LastEditTime": 1393177008445461300
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 132,
+                "Height": 132,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Normalmap_00_03.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 890863160,
+                "TimeStamp": 1393175452719478900,
+                "LastEditTime": 1393177008452461700
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 132,
+                "Height": 132,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Normalmap_01_00.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 890863160,
+                "TimeStamp": 1393175452195448900,
+                "LastEditTime": 1393177008459462100
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 132,
+                "Height": 132,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Normalmap_01_01.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 890863160,
+                "TimeStamp": 1393175452386459800,
+                "LastEditTime": 1393177008465462400
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 132,
+                "Height": 132,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Normalmap_01_02.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 890863160,
+                "TimeStamp": 1393175452577470700,
+                "LastEditTime": 1393177008472462800
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 132,
+                "Height": 132,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Normalmap_01_03.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 890863160,
+                "TimeStamp": 1393175452766481500,
+                "LastEditTime": 1393177008478463200
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 132,
+                "Height": 132,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Normalmap_02_00.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 890863160,
+                "TimeStamp": 1393175452243451600,
+                "LastEditTime": 1393177008485463600
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 132,
+                "Height": 132,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Normalmap_02_01.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 890863160,
+                "TimeStamp": 1393175452433462500,
+                "LastEditTime": 1393177008492464000
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 132,
+                "Height": 132,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Normalmap_02_02.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 890863160,
+                "TimeStamp": 1393175452624473400,
+                "LastEditTime": 1393177008499464400
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 132,
+                "Height": 132,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Normalmap_02_03.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 890863160,
+                "TimeStamp": 1393175452813484200,
+                "LastEditTime": 1393177008506464800
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 132,
+                "Height": 132,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Normalmap_03_00.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 890863160,
+                "TimeStamp": 1393175452291454400,
+                "LastEditTime": 1393177008370457000
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 132,
+                "Height": 132,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Normalmap_03_01.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 890863160,
+                "TimeStamp": 1393175452480465200,
+                "LastEditTime": 1393177008387458000
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 132,
+                "Height": 132,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Normalmap_03_02.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 890863160,
+                "TimeStamp": 1393175452672476200,
+                "LastEditTime": 1393177008402458800
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 132,
+                "Height": 132,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Normalmap_03_03.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 890863160,
+                "TimeStamp": 1393175452861487000,
+                "LastEditTime": 1393177008417459700
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 132,
+                "Height": 132,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Weightmap0_00_00.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 349676346,
+                "TimeStamp": 1393175452126444900,
+                "LastEditTime": 1393177008542466800
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Weightmap0_00_01.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 349676346,
+                "TimeStamp": 1393175452319456000,
+                "LastEditTime": 1393177008593469800
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Weightmap0_00_02.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 349676346,
+                "TimeStamp": 1393175452509466800,
+                "LastEditTime": 1393177008644472700
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Weightmap0_00_03.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 349676346,
+                "TimeStamp": 1393175452700477800,
+                "LastEditTime": 1393177008694475500
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Weightmap0_01_00.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 349676346,
+                "TimeStamp": 1393175452176447800,
+                "LastEditTime": 1393177008742478300
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Weightmap0_01_01.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 349676346,
+                "TimeStamp": 1393175452367458700,
+                "LastEditTime": 1393177008791481100
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Weightmap0_01_02.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 349676346,
+                "TimeStamp": 1393175452558469600,
+                "LastEditTime": 1393177008838483800
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Weightmap0_01_03.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 349676346,
+                "TimeStamp": 1393175452747480500,
+                "LastEditTime": 1393177008883486300
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Weightmap0_02_00.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 349676346,
+                "TimeStamp": 1393175452223450500,
+                "LastEditTime": 1393177008930489000
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Weightmap0_02_01.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 349676346,
+                "TimeStamp": 1393175452414461400,
+                "LastEditTime": 1393177008976491700
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Weightmap0_02_02.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 349676346,
+                "TimeStamp": 1393175452605472300,
+                "LastEditTime": 1393177009023494400
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Weightmap0_02_03.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 349676346,
+                "TimeStamp": 1393175452794483100,
+                "LastEditTime": 1393177009071497100
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Weightmap0_03_00.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 349676346,
+                "TimeStamp": 1393175452271453200,
+                "LastEditTime": 1393177009120499900
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Weightmap0_03_01.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 349676346,
+                "TimeStamp": 1393175452461464100,
+                "LastEditTime": 1393177009168502600
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Weightmap0_03_02.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 349676346,
+                "TimeStamp": 1393175452653475100,
+                "LastEditTime": 1393177009217505400
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Test.TerrainData/AuxiliaryTextures/Weightmap0_03_03.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 349676346,
+                "TimeStamp": 1393175452842485900,
+                "LastEditTime": 1393177009263508100
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Textures/BARK5.jpg": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1560163718,
+                "TimeStamp": 1316053262000000000,
+                "LastEditTime": 1391988983605112600
+            },
+            "Texture": {
+                "FileFormat": "JPG",
+                "Width": 112,
+                "Height": 112,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Textures/Concrete.Precast Structural Concrete.Smooth.jpg": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3692328727,
+                "TimeStamp": 1316053264000000000,
+                "LastEditTime": 1391992608992472900
+            },
+            "Texture": {
+                "FileFormat": "JPG",
+                "Width": 720,
+                "Height": 512,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Textures/Enemy.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1791660496,
+                "TimeStamp": 1392952492505710600,
+                "LastEditTime": 1392953821837744000
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 384,
+                "Height": 384,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Textures/grass.jpg": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 451762621,
+                "TimeStamp": 1316053264000000000,
+                "LastEditTime": 1391988984403158200
+            },
+            "Texture": {
+                "FileFormat": "JPG",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Textures/Grass.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1430444176,
+                "TimeStamp": 1392934058427341600,
+                "LastEditTime": 1392954374881376300
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 384,
+                "Height": 384,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Textures/Grass_Bump.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 515279099,
+                "TimeStamp": 1392954256729618400,
+                "LastEditTime": 1392954374895377100
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 384,
+                "Height": 384,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Textures/JP_Brick01_Bump.jpg": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3322978754,
+                "TimeStamp": 1316053264000000000,
+                "LastEditTime": 1391992609931526600
+            },
+            "Texture": {
+                "FileFormat": "JPG",
+                "Width": 160,
+                "Height": 80,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        }
+    },
+    "TrackedFiles": {
+        "Meshes/Cells/Cell00.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1395448254057966400,
+            "LastEditTime": 1395527360717608500
+        },
+        "Meshes/Cells/Cell01.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1395448553283081100,
+            "LastEditTime": 1395527360717608500
+        },
+        "Meshes/Cells/Cell02.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1395448567696905500,
+            "LastEditTime": 1395527360717608500
+        },
+        "Meshes/Cells/Cell03.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1395448585515924700,
+            "LastEditTime": 1395527360717608500
+        },
+        "Meshes/Cells/Cell10.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1395448606585129800,
+            "LastEditTime": 1395527360717608500
+        },
+        "Meshes/Cells/Cell11.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1395448620586930600,
+            "LastEditTime": 1395527360717608500
+        },
+        "Meshes/Cells/Cell110.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1395448880482795800,
+            "LastEditTime": 1395527360717608500
+        },
+        "Meshes/Cells/Cell111.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1395448889912335200,
+            "LastEditTime": 1395527360717608500
+        },
+        "Meshes/Cells/Cell112.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1395448901978025300,
+            "LastEditTime": 1395527360717608500
+        },
+        "Meshes/Cells/Cell12.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1395448772878641200,
+            "LastEditTime": 1395527360717608500
+        },
+        "Meshes/Cells/Cell13.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1395448792013735700,
+            "LastEditTime": 1395527360717608500
+        },
+        "Meshes/Cells/Cell14.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1395448807928646000,
+            "LastEditTime": 1395527360717608500
+        },
+        "Meshes/Cells/Cell15.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1395448817487192700,
+            "LastEditTime": 1395527360717608500
+        },
+        "Meshes/Cells/Cell16.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1395448827997793900,
+            "LastEditTime": 1395527360717608500
+        },
+        "Meshes/Cells/Cell17.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1395448839001423200,
+            "LastEditTime": 1395527360717608500
+        },
+        "Meshes/Cells/Cell18.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1395448849596029200,
+            "LastEditTime": 1395527360717608500
+        },
+        "Meshes/Cells/Cell19.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1395448865754953400,
+            "LastEditTime": 1395527360717608500
+        },
+        "Meshes/Columnar_Object.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1394587589520333500,
+            "LastEditTime": 1394587765624406100
+        },
+        "Meshes/Friendly/Grass.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1392954373723310100,
+            "LastEditTime": 1392954373837316600
+        },
+        "Meshes/Stones/Grass.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1396289146365371100,
+            "LastEditTime": 1396289071380082200
+        },
+        "Meshes/Stones/Stone00.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1396280116715904700,
+            "LastEditTime": 1396289071380082200
+        },
+        "Meshes/Trees/Tree00.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1396210723088816300,
+            "LastEditTime": 1396217467177556100
+        },
+        "Meshes/Trees/Tree01.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1396217193968929500,
+            "LastEditTime": 1396217467177556100
+        },
+        "Models/Character.model_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1394386935773595700,
+            "LastEditTime": 1394587906481462700
+        },
+        "Particles/Textures/Light.dds": {
+            "Hash": 0,
+            "TimeStamp": 0,
+            "LastEditTime": 1396473492463364800
+        }
+    }
+}
