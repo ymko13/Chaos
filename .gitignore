@@ -41,6 +41,14 @@ ExportedObj/
 # ============ #
 .DS_Store
 .DS_Store?
+=======
+Bin/
+Lib/
+Obj/
+
+*.sdf
+*.opensdf
+
 ._*
 .Spotlight-V100
 .Trashes
@@ -48,3 +56,4 @@ Icon?
 ehthumbs.db
 Thumbs.db
 ~*.*
+=======
